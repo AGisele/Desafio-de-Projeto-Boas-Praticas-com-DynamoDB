@@ -1,0 +1,130 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {
+                        "S": "Blackpink"
+                      },
+                      "SongTitle": {
+                        "S": "Yeah Yeah Yeah"
+                      },
+                      "AlbumTitle": {
+                        "S": "Born Pink"
+                      },
+                      "SongYear": {
+                        "S": "2022"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {
+                        "S": "Blackpink"
+                      },
+                      "SongTitle": {
+                        "S": "Typa Girl"
+                      },
+                      "AlbumTitle": {
+                        "S": "Born Pink"
+                      },
+                      "SongYear": {
+                        "S": "2022"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {
+                        "S": "Blackpink"
+                      },
+                      "SongTitle": {
+                        "S": "Tally"
+                      },
+                      "AlbumTitle": {
+                        "S": "Born Pink"
+                      },
+                      "SongYear": {
+                        "S": "2022"
+                      }
+                }
+            }
+        }
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {
+                        "S": "Blackpink"
+                      },
+                      "SongTitle": {
+                        "S": "Shut Down"
+                      },
+                      "AlbumTitle": {
+                        "S": "Born Pink"
+                      },
+                      "SongYear": {
+                        "S": "2022"
+                      }
+                }
+            }
+        }
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {
+                        "S": "Blackpink"
+                      },
+                      "SongTitle": {
+                        "S": "The Happiest Girl"
+                      },
+                      "AlbumTitle": {
+                        "S": "Born Pink"
+                      },
+                      "SongYear": {
+                        "S": "2022"
+                      }
+                }
+            }
+        }
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {
+                        "S": "Blackpink"
+                      },
+                      "SongTitle": {
+                        "S": "Ready For Love"
+                      },
+                      "AlbumTitle": {
+                        "S": "Born Pink"
+                      },
+                      "SongYear": {
+                        "S": "2022"
+                      }
+                }
+            }
+        }
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {
+                        "S": "Blackpink"
+                      },
+                      "SongTitle": {
+                        "S": "Hard to Love"
+                      },
+                      "AlbumTitle": {
+                        "S": "Born Pink"
+                      },
+                      "SongYear": {
+                        "S": "2022"
+                      }
+                }
+            }
+        }
+      ]
+}
